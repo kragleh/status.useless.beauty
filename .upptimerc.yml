@@ -13,6 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Useless Beauty
+  theme: night
   introTitle: "**Useless Beauty** is a Mastodon instance operated by [kragleh](https://kragleh.com)"
   introMessage: ""
   navbar:
